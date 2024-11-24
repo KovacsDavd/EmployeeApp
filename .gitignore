@@ -1,0 +1,19 @@
+# Általános
+*.log
+*.env
+.DS_Store
+
+# Node.js (React)
+node_modules/
+build/
+
+# Java (Spring)
+target/
+*.class
+*.jar
+*.war
+
+# IDE konfigurációk
+.idea/
+*.iml
+.vscode/
